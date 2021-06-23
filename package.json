@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "cls-rtracer": "^2.6.0",
+    "fetch-ponyfill": "^7.1.0",
     "qs": "^6.5.2"
   },
   "keywords": [
