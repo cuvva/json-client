@@ -1,6 +1,6 @@
 {
   "name": "@cuvva/json-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple library for requesting data from JSON APIs",
   "homepage": "https://github.com/cuvva/json-client",
   "bugs": {
