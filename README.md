@@ -5,7 +5,7 @@ Simple library for requesting data from JSON APIs.
 Returns promises only. Standard callbacks are not supported.
 
 ```js
-const jsonClient = require('json-client');
+const jsonClient = require('@cuvva/json-client');
 const client = jsonClient('https://api.example.com/v1');
 
 await client('get', 'users/123');
